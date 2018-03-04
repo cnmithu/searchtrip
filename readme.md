@@ -1,2 +1,2 @@
 ## Distance & duration for multiple destinations and transport modes
-### With Jquery and Laravel framwork
+### With Jquery, Laravel framwork and google distance matrix API
